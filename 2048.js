@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*var board;
 var score = 0;
 var rows = 0;
@@ -457,4 +457,4 @@ function hasEmptyTile() {
     }
     return false;
 }
->>>>>>> 6caf92b678ec019aefb1c7a3e51e0e478552935f
+
